@@ -23,11 +23,11 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com">
+<a href="https://www.linkedin.com/in/muhammad-azzam-41ab5531b/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://instagram.com">
+<a href="https://www.instagram.com/azzamidn24/">
 <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram"/>
 </a>
 </p>
